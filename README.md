@@ -1,5 +1,5 @@
 # Real-ESRGAN For Intel GPU
-The [OpenVINO](https://github.com/openvinotoolkit/openvino) implementation of [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN), optimized for Intel platform.
+The project implements [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) inference using [OpenVINO](https://github.com/openvinotoolkit/openvino) which is optimized for Intel platform.
 ## Features
 Up to 5x faster than the [Real-ESRGAN ncnn Vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan) implementation.
 ## Limitation
